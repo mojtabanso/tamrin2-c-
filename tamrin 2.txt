@@ -1,0 +1,14 @@
+             ‘ŒÌ’ »Œ‘ Å–Ì— »Êœ‰ »— 3
+
+            int a = int.Parse(Console.ReadLine());
+
+            if (a % 3 != 0)
+            {
+                Console.WriteLine("ast");
+            }
+            else
+            {
+                Console.WriteLine("nist");
+            }
+
+            Console.ReadKey();
